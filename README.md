@@ -43,13 +43,13 @@ vim /var/www/test1.com/public_html/index.html
   
 <head>
 
-  <title>Home Page of Saaspect Test1.com</title>
+  <title>Home Page of Brijbhushan Test1.com</title>
 
   </head>
 
   <body>
 
-    <p>Success! The Saaspect test1 virtual host is working!</p>
+    <p>Success! The Brijbhushan test1 virtual host is working!</p>
 
   </body>
 
@@ -62,13 +62,13 @@ vim /var/www/test2.com/public_html/index.html
 
   <head>
 
-    <title>Home Page of Saaspect Test2.com</title>
+    <title>Home Page of Brijbhushan Test2.com</title>
 
   </head>
 
   <body>
 
-    <p>Success! The Saaspect test2 virtual host is working!</p>
+    <p>Success! The Brijbhushan test2 virtual host is working!</p>
 
   </body>
   
